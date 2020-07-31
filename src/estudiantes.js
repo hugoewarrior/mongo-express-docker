@@ -36,7 +36,7 @@ module.exports = class Estudiantes {
 
         }
         catch (e) {
-            return { message: `ERROR: ${e}`, error: e };
+            return { message:`ERROR: ${e}`, error: e };
         }
     }
 
