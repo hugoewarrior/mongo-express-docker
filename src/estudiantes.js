@@ -1,8 +1,8 @@
 module.exports = class Estudiantes {
     constructor() {
         this.sudents = [
-            { name: "Hugo Guerrero", id: "8-918-1092", grade: 9.6 },
-            { name: "Fulano de Tal", id: "8-918-1091", grade: 10.00 },
+            { name: "Aldahir Peralta", id: "8-944-811", grade: 8.2 },
+            { name: "Roberto Gutiérrez", id: "8-556-2020", grade: 9.04 },
         ];
     }
 
